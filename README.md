@@ -1,5 +1,7 @@
 # Filters-With-Opencv
 
+Basic Snapchat & Instagram filters with openCV
+
 ## 1. Ice Defrosting
 
 Ice defrosting is a fun as well as challenging application to make. It can be done with the help of hand landmark detection.
