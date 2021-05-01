@@ -12,3 +12,5 @@ Steps:-
 - Step 3: Overlap the Ice image onto our camera image.
 - Step 4: Swap out the circle of ice image with our camera image whenever a hand is detected.
 - Step 5: If no hand is detected, repeat step 3
+
+## 2. Pig Nose
